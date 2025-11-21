@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KD3FSDvmlaA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ad591\\source\\repos\\WebTrust\\WebTrut.Application\\WebTrut.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ad591\\.nuget\\packages\\htmlagilitypack\\1.12.4\\htmlagilitypack.1.12.4.nupkg.sha512"
+  ],
+  "logs": []
+}

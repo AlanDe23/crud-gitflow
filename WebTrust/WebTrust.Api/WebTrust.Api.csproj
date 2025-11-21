@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="HtmlAgilityPack" Version="1.12.4" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Domain\WebTrust.Domain.csproj" />
+    <ProjectReference Include="..\WebTrust.Infrastructure\WebTrust.Infrastructure.csproj" />
+    <ProjectReference Include="..\WebTrut.Application\WebTrut.Application.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,17 @@
+C:\Users\ad591\source\repos\WebTrust\WebTrust.Infrastructure\obj\Debug\net8.0\WebTrust.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ad591\source\repos\WebTrust\WebTrust.Infrastructure\obj\Debug\net8.0\WebTrust.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ad591\source\repos\WebTrust\WebTrust.Infrastructure\obj\Debug\net8.0\WebTrust.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ad591\source\repos\WebTrust\WebTrust.Infrastructure\obj\Debug\net8.0\WebTrust.Infrastructure.AssemblyInfo.cs
+C:\Users\ad591\source\repos\WebTrust\WebTrust.Infrastructure\obj\Debug\net8.0\WebTrust.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ad591\source\repos\WebTrust\WebTrust.Infrastructure\bin\Debug\net8.0\WebTrust.Infrastructure.deps.json
+C:\Users\ad591\source\repos\WebTrust\WebTrust.Infrastructure\bin\Debug\net8.0\WebTrust.Infrastructure.dll
+C:\Users\ad591\source\repos\WebTrust\WebTrust.Infrastructure\bin\Debug\net8.0\WebTrust.Infrastructure.pdb
+C:\Users\ad591\source\repos\WebTrust\WebTrust.Infrastructure\bin\Debug\net8.0\WebTrust.Domain.dll
+C:\Users\ad591\source\repos\WebTrust\WebTrust.Infrastructure\bin\Debug\net8.0\WebTrut.Application.dll
+C:\Users\ad591\source\repos\WebTrust\WebTrust.Infrastructure\bin\Debug\net8.0\WebTrust.Domain.pdb
+C:\Users\ad591\source\repos\WebTrust\WebTrust.Infrastructure\bin\Debug\net8.0\WebTrut.Application.pdb
+C:\Users\ad591\source\repos\WebTrust\WebTrust.Infrastructure\obj\Debug\net8.0\WebTrust.E40C2737.Up2Date
+C:\Users\ad591\source\repos\WebTrust\WebTrust.Infrastructure\obj\Debug\net8.0\WebTrust.Infrastructure.dll
+C:\Users\ad591\source\repos\WebTrust\WebTrust.Infrastructure\obj\Debug\net8.0\refint\WebTrust.Infrastructure.dll
+C:\Users\ad591\source\repos\WebTrust\WebTrust.Infrastructure\obj\Debug\net8.0\WebTrust.Infrastructure.pdb
+C:\Users\ad591\source\repos\WebTrust\WebTrust.Infrastructure\obj\Debug\net8.0\ref\WebTrust.Infrastructure.dll
